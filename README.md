@@ -1,5 +1,4 @@
-**Crime Analysis: DC, Maryland, Virginia
-**
+**Crime Analysis: DC, Maryland, Virginia**
 
 
 The arrest table dataframe contains 63,892 entries, recording details such as gender, location, neighborhood, crime offense, and more. For this analysis, I focused on the first thousand entries to examine the distribution of specific crimes by gender. The offenses analyzed include narcotics, common assault, recovered property, and others. The map visualization uses the following color scheme:
